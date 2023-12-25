@@ -1,0 +1,8 @@
+Well done!
+
+4.a
+Email Promotion should not INCLUDE (it's not = should not BE EQUAL). 
+
+4.d,e
+DISTINCT is not needed. First of all, it's not asked in the task. Secondly, GROUP BY is already showing only unique values. 
+
